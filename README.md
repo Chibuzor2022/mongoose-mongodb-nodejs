@@ -1,6 +1,6 @@
-# This is a simple MongoDB & Mongoose project as part of a training program with complete implementation of MongoDB operations using Mongoose in a single file with built-in test cases.
+## This is a simple MongoDB & Mongoose project as part of a training program with complete implementation of MongoDB operations using Mongoose in a single file with built-in test cases.
 
-## Key Features
+### Key Features
 
 - All Mongoose operations in one file
 - Built-in test function
@@ -8,13 +8,13 @@
 - Comprehensive error handling
 - Clean console output
 
-## Key Prerequisites
+### Key Prerequisites
 
 - Node.js 
 - MongoDB Atlas account
   
 
-## The Project runs the following test cases:
+### The Project runs the following test cases:
 
 -Create and Save - Creates a single person record
 
